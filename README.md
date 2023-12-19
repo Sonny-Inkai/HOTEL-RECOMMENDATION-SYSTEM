@@ -1,1 +1,3 @@
-# Hotel-Recommendation-System-with-SOTA-Approach
+# Hotel-Recommendation-System
+## Graph Hybrid User Context (GHUC)
+![System Architecture](/GHUC.drawio.png)
