@@ -6,7 +6,7 @@
 ## Short Demo 
 - See all Demo in [Link](https://www.youtube.com/watch?v=eyEq0Ukkv2Y)
 
-![System Architecture](/repo_img/demofull.gif)
+![](/repo_img/demofull.gif)
 
 
 ```
